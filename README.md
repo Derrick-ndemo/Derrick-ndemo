@@ -1,4 +1,3 @@
-<img src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" />
 <h1 align="center">Hello there 👋🏼</h1>
 <p>
 My Name is Derrick. I am a software engineer with interest in solving real-world problems with technology and dependable leadership. An avid writer | reader exploring information technology advancements and personal development through various media
